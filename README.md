@@ -1,17 +1,23 @@
 # Delivery
-# Delivery
 
-A delivery management platform for handling orders, tracking deliveries, and managing customers and drivers.
+A delivery management platform designed to streamline order processing and delivery operations.
 
-## Features
-- Order management
-- Delivery tracking
-- Customer management
-- Driver management
-- Dashboard and analytics
+## Planned Features
 
-## Getting Started
-This project is currently under development.
+- Customer order management
+- Driver assignment
+- Real-time delivery tracking
+- Delivery status notifications
+- Reporting and analytics dashboard
 
-## License
-MIT
+## Project Status
+
+🚧 Early development phase.
+
+## Roadmap
+
+- [ ] Project setup
+- [ ] Backend API
+- [ ] Database design
+- [ ] Frontend dashboard
+- [ ] Authentication system
